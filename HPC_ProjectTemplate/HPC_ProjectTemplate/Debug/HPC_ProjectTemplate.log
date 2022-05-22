@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(97,6): error C2374: 'ImageWidth': redefinition; multiple initialization
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(85): message : see declaration of 'ImageWidth'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(97,22): error C2374: 'ImageHeight': redefinition; multiple initialization
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(85): message : see declaration of 'ImageHeight'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(99,6): error C2086: 'int start_s': redefinition
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(87): message : see declaration of 'start_s'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(99,15): error C2086: 'int stop_s': redefinition
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(87): message : see declaration of 'stop_s'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(99,23): error C2374: 'TotalTime': redefinition; multiple initialization
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(87): message : see declaration of 'TotalTime'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(101,18): error C2086: 'System::String ^imagePath': redefinition
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(88): message : see declaration of 'imagePath'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(102,14): error C2086: 'std::string img': redefinition
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(89): message : see declaration of 'img'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(106,7): error C2374: 'imageData': redefinition; multiple initialization
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(93): message : see declaration of 'imageData'
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(119,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(168,73): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\3rd year second term\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(211,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
